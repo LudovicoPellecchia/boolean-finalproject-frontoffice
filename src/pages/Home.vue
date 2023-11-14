@@ -90,9 +90,9 @@ export default {
             <h4 class="slogan-font-color text-end mb-5">
               La Tua Difesa Online
             </h4>
-            <div class="text-end">
+            <!-- <div class="text-end">
               <router-link to="/index" class="btn">Cerca Esperto </router-link>
-            </div>
+            </div> -->
           </header>
         </div>
       </div>
@@ -140,6 +140,7 @@ export default {
 </template>
 
 <style lang="scss" scoped>
+
 .slogan {
   color: #27cdf2;
   margin-bottom: 0;
